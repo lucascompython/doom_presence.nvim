@@ -4,7 +4,10 @@
 
 > Discord [Rich Presence](https://discord.com/rich-presence) plugin for [Neovim](https://neovim.io)
 
-<img src="https://gist.githubusercontent.com/andweeb/df3216345530234289b87cf5080c2c60/raw/ad916fec8de921d0021801a0af877a5349621e7e/presence-demo-a.gif" width="100%" alt="demo.gif">
+<img src="https://cdn.discordapp.com/attachments/1079154290444210216/1086690222940626954/image.png" width="100%" alt="demo.gif">
+
+## Usage
+It's meant to be used with [Doom Nvim](https://github.com/doom-neovim/doom-nvim#faq).
 
 ## Features
 * Light and unobtrusive
@@ -16,8 +19,8 @@
 
 ## Installation
 Use your favorite plugin manager
-* [vim-plug](https://github.com/junegunn/vim-plug): `Plug 'andweeb/presence.nvim'`
-* [packer.nvim](https://github.com/wbthomason/packer.nvim): `use 'andweeb/presence.nvim'`
+* [vim-plug](https://github.com/junegunn/vim-plug): `Plug 'lucascompython/presence.nvim'`
+* [packer.nvim](https://github.com/wbthomason/packer.nvim): `use 'lucascompython/presence.nvim'`
 
 #### Notes
 * Requires [Neovim 0.5](https://github.com/neovim/neovim/releases/tag/v0.5.0) or higher
